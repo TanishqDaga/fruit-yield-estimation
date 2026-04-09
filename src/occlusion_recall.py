@@ -9,8 +9,8 @@ image_folder = "test_images"
 
 # MANUAL COUNTS
 occlusion_data = {
-    "img_1.jpg": 6,
-    "img_2.jpg": 6,
+    "img_1.jpg": 5,
+    "img_2.jpg": 7,
     "img_3.jpg": 1
 }
 
